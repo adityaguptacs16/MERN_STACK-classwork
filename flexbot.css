@@ -1,0 +1,15 @@
+.box{
+    height: 400px;
+    width: 150px;
+    margin: auto;
+    margin-top: 150px;
+    border: 2px solid black;
+}
+.firstboxs{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: black;
+    margin: auto;
+    margin-top: 20px;
+}
